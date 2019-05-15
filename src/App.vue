@@ -9,12 +9,10 @@
 
 <script>
 import Toolbar from './components/Toolbar.vue'
-import Data from './components/Data'
 
 export default {
   name: 'App',
   components: {
-    Data,
     Toolbar
   },
   data () {
